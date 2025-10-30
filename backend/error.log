@@ -1,0 +1,28 @@
+[30-Oct-2025 14:23:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot access protected property PlayerDao::$connection in C:\xampp\htdocs\TeamLineupBuilder\backend\players.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\TeamLineupBuilder\backend\players.php on line 50
+[30-Oct-2025 14:24:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot access protected property PlayerDao::$connection in C:\xampp\htdocs\TeamLineupBuilder\backend\players.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\TeamLineupBuilder\backend\players.php on line 50
+[30-Oct-2025 14:24:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot access protected property PlayerDao::$connection in C:\xampp\htdocs\TeamLineupBuilder\backend\players.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\TeamLineupBuilder\backend\players.php on line 50
+[30-Oct-2025 14:24:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot access protected property PlayerDao::$connection in C:\xampp\htdocs\TeamLineupBuilder\backend\players.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\TeamLineupBuilder\backend\players.php on line 50
+[30-Oct-2025 14:32:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method PlayerDao::addIfNotExists() in C:\xampp\htdocs\TeamLineupBuilder\backend\players.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\TeamLineupBuilder\backend\players.php on line 48
+[30-Oct-2025 14:32:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method PlayerDao::addIfNotExists() in C:\xampp\htdocs\TeamLineupBuilder\backend\players.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\TeamLineupBuilder\backend\players.php on line 48
+[30-Oct-2025 14:32:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method PlayerDao::addIfNotExists() in C:\xampp\htdocs\TeamLineupBuilder\backend\players.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\TeamLineupBuilder\backend\players.php on line 48
